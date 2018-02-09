@@ -1,0 +1,41 @@
+{
+    "DPI": 200,
+    
+    "MinImageWidth": 65,
+    "MaxImageWidth": 100,
+    
+    "MinImageHeight": 25,
+    "MaxImageHeight": 50,
+
+    "LeftEdgeOverscan": 10,
+    "RightEdgeOverscan": 10,
+    "TopEdgeOverscan": 10,
+    "BottomEdgeOverscan": 10,
+
+    "BitonalMinCompressedSize": 2000,
+    "BitonalMaxCompressedSize": 100000,
+    "BitonalMinBlack": 20,
+    "BitonalMaxBlack": 800,
+
+    "GrayMinCompressedSize": 2000,
+    "GrayMaxCompressedSize": 200000,
+    "GrayPercentWhitest": 780,
+    "GrayPercentBlackest": 780,
+    "GrayMaxBrightness": 900,
+    "GrayMinBrightness": 600,
+    "GrayMinContrast": 500,
+    "GrayMaxContrast": 800,
+
+    "NegativeSkewAngle": 10,
+    "PositiveSkewAngle": 10,
+
+    "TornCornerWidth": 10,
+    "TornCornerHeigth": 5,
+    "TornEdgeWidth": 10,
+    "TornEdgeHeigth": 5,
+
+    "FrontRearWidthDifference": 4,
+    "FrontRearHeightDifference": 3,
+
+    "BlurThreshold": 250
+}
